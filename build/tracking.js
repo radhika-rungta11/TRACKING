@@ -4,7 +4,7 @@
  * @version v1.1.3
  * @link http://trackingjs.com
  * @license BSD
- */
+ */ 
 (function(window, undefined) {
   window.tracking = window.tracking || {};
 
