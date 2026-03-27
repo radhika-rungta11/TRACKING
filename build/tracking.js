@@ -3,7 +3,7 @@
  * @author Eduardo Lundgren <edu@rdo.io>
  * @version v1.1.3
  * @link http://trackingjs.com
- * @license BSD  
+ * @license BSD    
  */ 
 (function(window, undefined) {
   window.tracking = window.tracking || {};
