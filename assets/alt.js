@@ -2,7 +2,7 @@
 
 var opencv_haarcascade_frontalface_alt = {  
     "type_id": "opencv-haar-classifier",
-    "size": "20 20",
+    "size": "20 20",  
     "stages": [
         {
             "trees": [
