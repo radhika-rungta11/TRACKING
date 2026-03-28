@@ -1,6 +1,6 @@
 // Conversion from http://www.freeformatter.com/xml-to-json-converter.html
 
-var opencv_haarcascade_frontalface_alt = {
+var opencv_haarcascade_frontalface_alt = {  
     "type_id": "opencv-haar-classifier",
     "size": "20 20",
     "stages": [
